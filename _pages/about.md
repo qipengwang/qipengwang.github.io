@@ -60,7 +60,7 @@ I am currently on the **industrial job market**. This is my [CV](../files/cv.pdf
 
 # Experience
 
-- April 2022 ~ July 2023: Research Intern @ Microsoft Research Asia, HEA Group
+- April 2022 ~ July 2023: Research Intern @ Microsoft Research Asia, HEX Group
   - Mentored by [Shiqi Jiang](https://chrisplus.me/) and [Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/)
   - Honored with Star of Tomorrow (Award of Excellent Intern)
 
