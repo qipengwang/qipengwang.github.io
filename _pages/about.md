@@ -15,6 +15,8 @@ My current research mainly focuses on systems for machine learning, especially t
 
 I am currently on the **industrial job market**. This is my [CV](../files/cv.pdf).
 
+Connect: wangqipeng [AT] stu [DOT] pku [DOT] edu [DOT] cn
+
 # Publications
 
 - \[[MobiSys'22](https://dl.acm.org/doi/abs/10.1145/3498361.3538928)\] Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning.
