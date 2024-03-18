@@ -58,6 +58,13 @@ I am currently on the **industrial job market**. This is my [CV](../files/cv.pdf
   \[[Paper List](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
 
+# Experience
+
+- April 2022 ~ July 2023: Research Intern @ Microsoft Research Asia, HEA Group
+  - Mentored by [Shiqi Jiang](https://chrisplus.me/) and [Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/)
+  - Honored with Star of Tomorrow (Award of Excellent Intern)
+
+
 # Teaching
 
 - Teaching Assistant, Introduction to C++ Programming Language (120 Undergraduate student), Peking University (Fall 2020, Fall 2021, Fall 2022, Fall 2023)
