@@ -58,4 +58,7 @@ I am currently on the **industrial job market**. This is my [CV](../files/cv.pdf
   \[[Paper List](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)\]
 
 
+# Teaching
+
+- Teaching Assistant, Introduction to C++ Programming Language (Undergraduate), Peking University (Fall 2020, Fall 2021, Fall 2022, Fall 2023)
 
