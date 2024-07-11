@@ -25,7 +25,7 @@ Connect: wangqipeng [AT] stu [DOT] pku [DOT] edu [DOT] cn
 
   \[[pdf](../files/mobisys22-paper.pdf)\], \[[slides](../files/mobisys22-slides.pdf)\], \[[code](https://github.com/qipengwang/Melon)\]
 
-- \[[arXiv](https://arxiv.org/pdf/2402.05981)\] Exploring the Impact of In-Browser Deep Learning Inference on Quality of User Experience and Performance.
+- \[[TOSEM'24](https://arxiv.org/pdf/2402.05981)\] Anatomizing Deep Learning Inference in Web Browsers.
 
   **Qipeng Wang**, Shiqi Jiang, Zhenpeng Chen, Xu Cao, Yuanchun Li, Aoyu Li, Ying Zhang, Yun Ma, Ting Cao, Xuanzhe Liu.
 
@@ -66,6 +66,7 @@ Connect: wangqipeng [AT] stu [DOT] pku [DOT] edu [DOT] cn
   - Mentored by [Shiqi Jiang](https://chrisplus.me/) and [Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/)
   - Honored with Star of Tomorrow (Award of Excellent Intern)
 
+- June 2024 ~ Now: Engineering Intern @ Tencent, TEG
 
 # Teaching
 
