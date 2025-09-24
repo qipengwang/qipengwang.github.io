@@ -13,19 +13,10 @@ I am Qipeng Wang, currently a system software engineer at Kwai (Kuaishou), focus
 
 Before joining Kuaishou, I received my Ph.D. degree at School of Computer Science, Peking University in 2025, advised by Prof. Gang Huang and Prof. [Xuanzhe Liu](https://liuxuanzhe.com/), and work close with Prof. [Mengwei Xu](https://xumengwei.github.io/index.html). Previously, I received my B.S. in Software Engineer from Beihang University in 2020.
 
-I am actively seeking for **industrial job opportunity @ Xi'an Shanxi Province**. This is my [CV](../files/cv.pdf).
+Currently, I am working in Beijing. In the future, I hope to pursue career opportunities in **Xi'an (first priority)** or *Chengdu (secondary priority)*, also within the industrial job opportunity. This is my [CV](../files/cv.pdf).
 
-Connect: wangqipeng [AT] stu [DOT] pku [DOT] edu [DOT] cn
+Connect: wangqipeng1997 AT gmail DOT com, 861026685 AT qq DOT com
 
----
-
-我是王启鹏，现为快手（Kuaishou）系统软件工程师，专注于机器学习系统/AI基础设施方向，特别是大语言模型（LLM）训练/推理优化。
-
-加入快手前，我于2025年在北京大学计算机学院获得博士学位，导师为黄罡教授和[刘譞哲教授](https://liuxuanzhe.com/)，并与[徐梦炜](https://xumengwei.github.io/index.html)教授保持紧密合作。此前我于2020年获得北京航空航天大学软件工程学士学位。
-
-我正在积极寻求**陕西省西安市的工业界工作机会**，这是我的[简历](../files/cv.pdf)。
-
-联系邮箱：wangqipeng[AT]stu[DOT]pku[DOT]edu[DOT]cn
 
 # Publications
 
