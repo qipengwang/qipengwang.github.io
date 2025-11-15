@@ -13,7 +13,7 @@ I am Qipeng Wang, currently a system software engineer at Kwai (Kuaishou), focus
 
 Before joining Kuaishou, I received my Ph.D. degree at School of Computer Science, Peking University in 2025, advised by Prof. Gang Huang and Prof. [Xuanzhe Liu](https://liuxuanzhe.com/), and work close with Prof. [Mengwei Xu](https://xumengwei.github.io/index.html). Previously, I received my B.S. in Software Engineer from Beihang University in 2020.
 
-Currently, I am working in Beijing. In the future, I hope to pursue career opportunities in **Xi'an (first priority)** or *Chengdu (secondary priority)*, also within the industrial job opportunity. This is my [CV](../files/cv.pdf).
+This is my [CV](../files/cv.pdf).
 
 Connect: wangqipeng1997 AT gmail DOT com, 861026685 AT qq DOT com
 
